@@ -1,0 +1,186 @@
+[
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Kernel.php",
+        "parent_id": null,
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Kernel.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Azu7OkGRl62ZMfdK"
+    },
+    {
+        "type": "Group",
+        "name": "authentication",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lKChO3j2runkY46f"
+    },
+    {
+        "type": "Group",
+        "name": "companies",
+        "parent_id": "Azu7OkGRl62ZMfdK",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ThIByYN8L7Q5fecm"
+    },
+    {
+        "type": "Group",
+        "name": "companies",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xIF8yrgwpAu5NnGk"
+    },
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\routes\\web.php",
+        "parent_id": null,
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\routes\\web.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "geGVuHFPlo8dJ46h"
+    },
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Controllers\\CompanyController.php",
+        "parent_id": "xIF8yrgwpAu5NnGk",
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Controllers\\CompanyController.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Xt0H4mLw9CNpcOnV"
+    },
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Controllers\\UserController.php",
+        "parent_id": "lKChO3j2runkY46f",
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Controllers\\UserController.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "5zWPoUYfcmiEeAXS"
+    },
+    {
+        "type": "Directory",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Middleware",
+        "parent_id": null,
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Http\\Middleware",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "5vILX9Yu83RqOljA"
+    },
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Models\\Company.php",
+        "parent_id": "xIF8yrgwpAu5NnGk",
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\app\\Models\\Company.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lOUciMdD7VY94Rz3"
+    },
+    {
+        "type": "Directory",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\resources\\views\\companies",
+        "parent_id": "xIF8yrgwpAu5NnGk",
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\resources\\views\\companies",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Jpv9KxoErw6VWRgH"
+    },
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\resources\\views\\login.blade.php",
+        "parent_id": "lKChO3j2runkY46f",
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\resources\\views\\login.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "WOTmdsLNgoyK8fzD"
+    },
+    {
+        "type": "File",
+        "name": "d:\\wsk\\xampp\\htdocs\\module_b\\resources\\views\\401.blade.php",
+        "parent_id": "lKChO3j2runkY46f",
+        "fsPath": "d:\\wsk\\xampp\\htdocs\\module_b\\resources\\views\\401.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "o2XQOi6dtPewYlhf"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "o2XQOi6dtPewYlhf",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "W2FxnXdjAqaops3l"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "o2XQOi6dtPewYlhf",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "kAPQc7SJ6OhUMDru"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "5vILX9Yu83RqOljA",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "RcIy9Q5GelrhP7Mu"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "5vILX9Yu83RqOljA",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "NThZ962BvdC7lw5u"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "5vILX9Yu83RqOljA",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "eNFQCIloi8XfHABS"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "5vILX9Yu83RqOljA",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "rp706JmP3OoayqRv"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "Jpv9KxoErw6VWRgH",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "rMiY5Dc4QFvwNGPs"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "Azu7OkGRl62ZMfdK",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "wi9lVpm6e73MFsx0"
+    },
+    {
+        "type": "Group",
+        "name": "product",
+        "parent_id": "5vILX9Yu83RqOljA",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "htFZyRlaX4rKVU9p"
+    },
+    {
+        "type": "Group",
+        "name": "product'",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lmsPo8zEO67kNwnW"
+    }
+]
