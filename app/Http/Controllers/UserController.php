@@ -7,6 +7,9 @@ use Illuminate\Support\Facades\Session;
 
 class UserController extends Controller
 {
+    public function goLogin(){
+        return redirect()->route('login');
+    }
     public function login(){
         return view('login');
     }
@@ -21,6 +24,9 @@ class UserController extends Controller
     }
     public function page_401(){
         return view('401');
+    }
+    public function error404(){
+        return view('errors.404');
     }
     public function logout(){
         Session::flush();

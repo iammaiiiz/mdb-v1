@@ -16,8 +16,8 @@ use App\Http\Controllers\ProductController;
 |
 */
 
-Route::get('/', [UserController::class,'login']);
 Route::controller(UserController::class)->group(function (){
+    Route::get('/','goLogin');
     Route::get('/login','login')->name('login');
     Route::get('/logout','logout')->name('logout');
     Route::get('/401','page_401')->name('401');
@@ -49,10 +49,9 @@ Route::middleware('isAdmin')->group(function(){
         Route::post('/products/image/{GTIN}/update','updateImage')->name('products.image.update');
     });
 });
-
 Route::controller(ProductController::class)->group(function(){
-    Route::get('/gtin','gtin')->name('gtin');
     Route::get('/gtin','gtin')->name('gtin');
     Route::get('/01/{gtin}','publicProduct')->name('public.product');
     Route::post('/gtin/check','gtinCheck')->name('check.gtin');
 });
+Route::fallback([UserController::class,'error404']);
